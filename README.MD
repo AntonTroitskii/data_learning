@@ -14,8 +14,12 @@ There are some classics ML task like IRIS, digits and other.
 
 ## 02_python_data_packages
 
-There are some code of using python packages for data preprocessing and making models.
+There is code of using python packages for data preprocessing and making models.
 
 ## 02_coursera_yandex
 
-Therea code from Yandex course of data analisys. There only 2 courses of the Yandex Specialization of ML.  
+There is code from Yandex course of data analisys. There only 2 courses of the Yandex Specialization of ML.  
+
+## 02_problems 
+
+There is code with different kind of problems. 
